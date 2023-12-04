@@ -36,10 +36,15 @@
 Пример:
 ![Знакомьтесь, какой-то рандомный чел!](chel.jpg)
 ```sh
-Для вывода изображения используется следующая команда: ![Text](File_name)
+![Text](File_name)
 ```
 
 ## Ссылки
+Пример: [Free robux](https://www.youtube.com/watch?v=dQw4w9WgXcQ "It's true, just one click.")
+
+```sh
+[Text](Link).
+```
 
 ## Таблицы
 
